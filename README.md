@@ -1,5 +1,5 @@
 # Dabrovskyweb
-My personal website based on: __HTML5__, __CSS3__, __RWD__, __jQuery__, __PHP__.
+My personal One Page website based on: __HTML5__, __CSS3__, __RWD__, __jQuery__, __PHP__.
 
 ### Preview
 ![layout](src/img/dabrovskyweb.png)
